@@ -18,7 +18,7 @@
   * [5.M 最长回文子串](<leetcode/5.M 最长回文子串.md>)
   * [567.M 字符串的排列](<leetcode/567.M 字符串的排列.md>)
   * [6.M Z字形变换](<leetcode/6.M Z字形变换.md>)
-  * [7.m-整数反转](<leetcode/7.m 整数反转.md>)
+  * [7.M 整数反转](<leetcode/7.m 整数反转.md>)
   * [74.M 搜索二维矩阵](leetcode/74.m-sou-suo-er-wei-ju-zhen.md)
   * [76.H 最小覆盖子串](leetcode/76.h-zui-xiao-fu-gai-zi-chuan.md)
 * [sword](sword/README.md)
