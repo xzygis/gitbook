@@ -8,7 +8,7 @@
   * [15.M 三数之和](<leetcode/15.M 三数之和.md>)
   * [153.M 寻找旋转排序数组中的最小值](leetcode/153.m-xun-zhao-xuan-zhuan-pai-xu-shu-zu-zhong-de-zui-xiao-zhi.md)
   * [199.M 二叉树的右视图](<leetcode/199.M 二叉树的右视图.md>)
-  * [2.M 两数相加.md](leetcode/2.m-add-two-numbers.md)
+  * [2.M 两数相加](leetcode/2.m-add-two-numbers.md)
   * [221.M 最大正方形](leetcode/221.m-zui-da-zheng-fang-xing.md)
   * [236.M 二叉树的最近公共祖先](leetcode/236.m-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
   * [240.M 搜索二维矩阵 II](leetcode/240.m-sou-suo-er-wei-ju-zhen-ii.md)
